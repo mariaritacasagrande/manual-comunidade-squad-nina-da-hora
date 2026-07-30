@@ -8,6 +8,7 @@ de tecnologia, da engenharia à liderança.
 - Aprendizado colaborativo
 - Respeito e acolhimento
 - Compartilhar conhecimento sem medo de errar
+- Inovação e melhoria contínua
 
 ## Quem pode participar
 
