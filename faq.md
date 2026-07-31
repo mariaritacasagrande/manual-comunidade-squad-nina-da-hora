@@ -16,3 +16,12 @@ manual. Veja o arquivo [contato.md](contato.md) para falar com a organização.
 ## 📢 Onde acompanhar as novidades?
 
 Acompanhe a página oficial da **[WoMakersCode](https://womakerscode.org/)** para ficar por dentro de todos os eventos, cursos e conteúdos da comunidade!
+
+## 🔗 Como Fazer Parte?
+
+Clique no link abaixo para entrar no servidor oficial e dar o seu primeiro **#hello-world** com a gente:
+
+👉 **[Entrar no Discord da WoMakersCode](https://womakerscode.org/)** *(adicione aqui o convite direto se preferir)*
+
+---
+> *"Juntas vamos mais longe na tecnologia!"* ⚡
