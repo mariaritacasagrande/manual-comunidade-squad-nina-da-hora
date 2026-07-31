@@ -10,3 +10,6 @@ escrever nenhuma linha de código de programação.
 - [Perguntas frequentes (FAQ)](faq.md)
 - [Como entrar em contato](contato.md)
 - [Código de conduta](codigo-de-conduta.md)
+
+> 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
+> o projeto e **como usá-lo**.
