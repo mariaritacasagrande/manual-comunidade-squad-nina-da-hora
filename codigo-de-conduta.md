@@ -15,5 +15,5 @@ Compartilhar conhecimento e incentivar a colaboração entre os membros da comun
 Juntos, construímos uma comunidade baseada em respeito, colaboração e aprendizado. Cada contribuição faz a diferença e ajuda outras pessoas a crescerem.
 
 
-Situações que violem este código podem ser reportadas pela organização. 
+Situações que violem este código podem ser reportadas pela organização (veja
 [contato.md](contato.md)).
