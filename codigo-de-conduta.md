@@ -7,5 +7,5 @@ Para manter a comunidade acolhedora, todas as pessoas participantes concordam em
 3. Não tolerar qualquer tipo de discriminação ou assédio.
 4. Dar crédito ao trabalho de outras pessoas.
 
-Situações que violem este código podem ser reportadas pela organização. 
+Situações que violem este código podem ser reportadas pela organização (veja
 [contato.md](contato.md)).
