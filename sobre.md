@@ -8,8 +8,8 @@ de tecnologia, da engenharia à liderança.
 - Aprendizado colaborativo
 - Respeito e acolhimento
 - Compartilhar conhecimento sem medo de errar
+- Inovação e melhoria contínua
 
 ## Quem pode participar
 
-Qualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente
-mais diverso na tecnologia.
+Qualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente mais diverso, inclusivo e acolhedor na tecnologia. Buscamos reunir pessoas com diferentes histórias, experiências e perspectivas, valorizando a pluralidade e criando um espaço onde todas as pessoas possam participar, aprender e compartilhar conhecimento.
