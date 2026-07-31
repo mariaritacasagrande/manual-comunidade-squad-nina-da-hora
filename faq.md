@@ -12,3 +12,5 @@ Temos os dois formatos. Confira a agenda para saber os próximos eventos.
 
 Você pode ajudar organizando eventos, criando conteúdo ou revisando materiais como este
 manual. Veja o arquivo [contato.md](contato.md) para falar com a organização.
+
+## Fique de olho na página do WoMakesCode
